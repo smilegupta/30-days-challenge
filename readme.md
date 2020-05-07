@@ -5,4 +5,4 @@ Contents:
 \
 1.2) Prime Number Concept
 \
-1.3) Concept of Factorisation
+1.3) Concept of Factorization
