@@ -4,3 +4,4 @@ Contents:
 1.1) Concept of GCD and LCM
 \
 1.2) Prime Number Concept
+1.3) Concept of Factorisation
