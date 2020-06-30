@@ -1,4 +1,6 @@
-### Day1:
+### 30 Days of Continous CP Challenge:  Start Date: July 01 2020
+
+#### Day1:
 #### Total Questions solved: 1
 ##### Que1: https://leetcode.com/problems/binary-search/ 
 ###### Tag: Binary Search Algorithm
