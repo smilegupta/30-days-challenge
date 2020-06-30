@@ -3,6 +3,7 @@
 ##### Que1: https://leetcode.com/problems/binary-search/ 
 ###### Tag: Binary Search Algorithm
 ##### Solution:
+```
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
@@ -28,3 +29,5 @@ public:
         
     }
 };
+```
+
