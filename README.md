@@ -20,8 +20,8 @@ I believe that practising algorithms every day is a long-term investment in my l
 
 | Day  | Question                                                                                                                                 | Type                            | From   |                                                                                                                                                    
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------- | 
-| 1    | [binary search](/leetcode/704-binary-search)                                                                                             | binary search                   | [leetcode 704](https://leetcode.com/problems/binary-search)                                                                                                                                                                          |
-| 2    | [sqrt(x)](/leetcode/69-sqrt-x)                                                                                                           | binary search                   | [leetcode 69](https://leetcode.com/problems/sqrtx/)                                                        |                                                                                                                              
+| 1    | [binary search](/leetcode/704-binary-search) | binary search| [leetcode 704](https://leetcode.com/problems/binary-search)|
+| 2    | [sqrt(x)](/leetcode/69-sqrt-x) | binary search| [leetcode 69](https://leetcode.com/problems/sqrtx/)|                                                                                                                              
 
 
 
