@@ -32,9 +32,9 @@ public:
 };
 ```
 
-#### Que2: https://leetcode.com/problems/sqrtx/
-#### Tag: Binary Search Application
-####  Solution:
+##### Que2: https://leetcode.com/problems/sqrtx/
+###### Tag: Binary Search Application
+#####  Solution:
 ````
 class Solution {
 public:
@@ -56,9 +56,9 @@ public:
 };
 ````
 
-#### Que2: https://leetcode.com/problems/search-in-rotated-sorted-array/
-#### Tag: Binary Search Application
-####  Solution:
+##### Que3: https://leetcode.com/problems/search-in-rotated-sorted-array/
+###### Tag: Binary Search Application
+#####  Solution:
 ````
 class Solution {
 public:
