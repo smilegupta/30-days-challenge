@@ -20,9 +20,9 @@ I believe that practising algorithms every day is a long-term investment in my l
 
 | Day  | Question | Type | From |                                                                                                                                        
 | ---- | ---- | ---- | ---- | 
-| 1    | [binary search](/leetcode/704-binary-search) | binary search| [leetcode 704](https://leetcode.com/problems/binary-search)|
-| 2    | [sqrt(x)](/leetcode/69-sqrt-x) | binary search| [leetcode 69](https://leetcode.com/problems/sqrtx/)|
-| 3    | [Search in Rotated Sorted Array](/leetcode/33-search-in-rotated-sorted-array/) | binary search| [leetcode 33](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
+| 1    | binary search | binary search| [leetcode 704](https://leetcode.com/problems/binary-search)|
+| 2    | sqrt(x)| binary search| [leetcode 69](https://leetcode.com/problems/sqrtx/)|
+| 3    | Search in Rotated Sorted Array| binary search| [leetcode 33](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
 
 
 
