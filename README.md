@@ -27,4 +27,4 @@ I believe that practising algorithms every day is a long-term investment in my l
 
 
 
-#### Goal Solving 100 questions within July
+#### Goal: Solving 100 questions within July
