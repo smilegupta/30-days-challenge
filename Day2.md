@@ -1,8 +1,8 @@
 ### Date: July 02 2020
 
-#### Total Questions solved: 1
+#### Total Questions solved: 2
 ##### Que1: https://leetcode.com/problems/find-peak-element/
-###### Tag: Binary Search
+###### Tag: Binary Search  -- Medium
 ##### Solution:
 ```
 class Solution {
@@ -47,7 +47,7 @@ public:
 };
 ```
 ##### Que2: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
-###### Tag: Binary Search
+###### Tag: Binary Search  -- Medium
 ##### Solution:
 ```
 class Solution {
