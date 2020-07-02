@@ -20,11 +20,11 @@ I believe that practising algorithms every day is a long-term investment in my l
 
 | Day  | Question | Type | From |                                                                                                                                        
 | ---- | ---- | ---- | ---- | 
-| 1    | binary search | binary search| [leetcode 704](https://leetcode.com/problems/binary-search)|
-| 2    | sqrt(x)| binary search| [leetcode 69](https://leetcode.com/problems/sqrtx/)|
-| 3    | Search in Rotated Sorted Array| binary search| [leetcode 33](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
-| 4    |Find Peak Element| binary search| [leetcode 162](https://leetcode.com/problems/find-peak-element/)|
-|5| Find Minimum in Rotated Sorted Array | binary search | [leet code 153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
+| 1    | binary search | binary search - easy| [leetcode 704](https://leetcode.com/problems/binary-search)|
+| 2    | sqrt(x)| binary search - easy| [leetcode 69](https://leetcode.com/problems/sqrtx/)|
+| 3    | Search in Rotated Sorted Array - medium| binary search| [leetcode 33](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
+| 4    |Find Peak Element| binary search - medium | [leetcode 162](https://leetcode.com/problems/find-peak-element/)|
+|5| Find Minimum in Rotated Sorted Array - medium | binary search | [leet code 153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
 
 
 
@@ -44,7 +44,7 @@ I believe that practising algorithms every day is a long-term investment in my l
 
 ```
 
-[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@smileguptaaa&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/smileguptaaa)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@smileguptaaa&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/smileguptaaa/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@smilegupta&color=9cf&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/smilegupta/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@smileguptaaa&color=grey&logo=twitter&style=flat&logoColor=white&colorA=critical)](https://twitter.com/smileguptaaa)
+[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@smileguptaaa&color=grey&logo=facebook&style=flat&logoColor=white&colorA=critical)](https://www.facebook.com/smileguptaaa)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@smileguptaaa&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/smileguptaaa/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@smilegupta&color=9cf&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/smilegupta/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@smileguptaaa&color=grey&logo=twitter&style=flat&logoColor=white&colorA=critical)](https://twitter.com/smileguptaaa)
 
 ***Glad to see you here! Show some love by [starring](https://github.com/smilegupta/30-days-challenge/) this repo.***
 
