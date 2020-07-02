@@ -23,6 +23,7 @@ I believe that practising algorithms every day is a long-term investment in my l
 | 1    | binary search | binary search| [leetcode 704](https://leetcode.com/problems/binary-search)|
 | 2    | sqrt(x)| binary search| [leetcode 69](https://leetcode.com/problems/sqrtx/)|
 | 3    | Search in Rotated Sorted Array| binary search| [leetcode 33](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
+| 4    |Find Peak Element| binary search| [leetcode 162](https://leetcode.com/problems/find-peak-element/)|
 
 
 
