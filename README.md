@@ -22,12 +22,12 @@ I believe that practising algorithms every day is a long-term investment in my l
 | ---- | ---- | ---- | ---- | 
 | 1    | binary search | binary search - easy| [leetcode 704](https://leetcode.com/problems/binary-search)|
 | 2    | sqrt(x)| binary search - easy| [leetcode 69](https://leetcode.com/problems/sqrtx/)|
-| 3    | Search in Rotated Sorted Array - medium| binary search| [leetcode 33](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
+| 3    | Search in Rotated Sorted Array| binary search - medium | [leetcode 33](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
 | 4    |Find Peak Element| binary search - medium | [leetcode 162](https://leetcode.com/problems/find-peak-element/)|
-|5| Find Minimum in Rotated Sorted Array - medium | binary search | [leet code 153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
-|6| Search Insert Position - easy | binary search | [leetcode 35](https://leetcode.com/problems/search-insert-position/) |
-|7|Peak Index in a Mountain Array - easy |binary search|[leetcode 852](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|
-|8|Find First and Last Position of Element in Sorted Array| binary search | [leetcode 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+|5| Find Minimum in Rotated Sorted Array| binary search  - medium  | [leet code 153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
+|6| Search Insert Position| binary search - easy| [leetcode 35](https://leetcode.com/problems/search-insert-position/) |
+|7|Peak Index in a Mountain Array |binary search - easy  |[leetcode 852](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|
+|8|Find First and Last Position of Element in Sorted Array| binary search -  - medium | [leetcode 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
 
 
