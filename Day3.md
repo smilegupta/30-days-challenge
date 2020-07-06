@@ -38,20 +38,17 @@ public:
         int l=0; 
         int r=size-1;
         int mid;
-       	while(r-l>1)
+       	while(l<=r)
        	{
        		mid=(l+r)/2;
-       		if(A[mid]>A[mid+1])
+       		if(A[mid]<A[mid+1])
        		{
        			l=mid+1;
 			}
 			else
 			r=mid-1;
 		}
-		if(r>0)
-		return A[r-1];
-		else
-		return A[l-1];
+		return l;
     }
 };
 ```
