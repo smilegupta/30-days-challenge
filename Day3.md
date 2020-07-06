@@ -1,6 +1,6 @@
 ### Date: July 03 2020
 
-#### Total Questions solved: 1
+#### Total Questions solved: 2
 ##### Que1: https://leetcode.com/problems/search-insert-position/
 ###### Tag: Binary Search  -- Easy
 ##### Solution:
@@ -22,6 +22,36 @@ public:
                 right = mid-1;
         }
         return left;
+    }
+};
+```
+
+##### Que2: https://leetcode.com/problems/peak-index-in-a-mountain-array/
+###### Tag: Binary Search  -- Easy
+##### Solution:
+
+```
+class Solution {
+public:
+    int peakIndexInMountainArray(vector<int>& A) {
+        int size=A.size();
+        int l=0; 
+        int r=size-1;
+        int mid;
+       	while(r-l>1)
+       	{
+       		mid=(l+r)/2;
+       		if(A[mid]>A[mid+1])
+       		{
+       			l=mid+1;
+			}
+			else
+			r=mid-1;
+		}
+		if(r>0)
+		return A[r-1];
+		else
+		return A[l-1];
     }
 };
 ```
