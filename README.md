@@ -26,6 +26,7 @@ I believe that practising algorithms every day is a long-term investment in my l
 | 4    |Find Peak Element| binary search - medium | [leetcode 162](https://leetcode.com/problems/find-peak-element/)|
 |5| Find Minimum in Rotated Sorted Array - medium | binary search | [leet code 153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
 |6| Search Insert Position - easy | binary search | [leetcode 35](https://leetcode.com/problems/search-insert-position/) |
+|7|Peak Index in a Mountain Array - easy |binary search|[leetcode 852](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|
 
 
 
